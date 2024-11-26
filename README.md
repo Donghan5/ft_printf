@@ -1,6 +1,6 @@
-* ft_printf *
+*ft_printf*
 
- ** goal and description **
+ **goal and description**
    - Let's implement printf function
    - Understand how printf function working
    - Learn about variadic arguments
